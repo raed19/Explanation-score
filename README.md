@@ -23,10 +23,10 @@ Alternatively, you can update the dataset paths in **`configs/config.yaml`**.
 ### **Step 2 — Train the Model**
 ```bash
 python -m src.train --config configs/config.yaml
-
-### **Step 3 — Evaluate Explainability (Q-MEX)**
-
+```
+### **Step 3 — Evaluate Explainability (Q-MEX)** 
 ```bash
 python -m src.eval_explainability --config configs/config.yaml
+```
 
 
