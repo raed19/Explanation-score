@@ -1,0 +1,13 @@
+torch>=2.1
+torchvision>=0.16
+pandas
+scikit-learn
+numpy
+pillow
+matplotlib
+opencv-python
+mediapipe
+scikit-image
+lime
+tqdm
+pyyaml
